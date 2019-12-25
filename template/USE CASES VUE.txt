@@ -1,0 +1,24 @@
+--> :href="title" data içerisinden veri çekerken ve ya method çağırırken v-bind:href kısaca :href kullanılır. {{ bu süslü parantezler html tagları arasında kullanılabilir fakat directive ler : ile bind edilmelidir .}}
+
+--> v-html = data altında link olsun <a href="http://google.com" > bunu yazdırmak istediğimizde <p> {{ link }} </p> yazdırırsak sadece string olarak görünür. kullanımı ise <p v-html="link"> dir.
+
+--> v-on = eventları bind ederken kullanılır. kısaca dataları bind ederken v-bind: kullanıyorsak eventları bind ederken de v-on kullanırız. v-on:click kısaca @click.
+
+--> computed ve method arasındaki temel fark computed lar fonksiyon gibi kullanılır data gibi davranır. Yani çağırırken parantezler kullanılmaz ve içerisinde property değişikliği olursa çalışır-render olur.
+
+--> Hooks özelliği bir herhangi bir class yazmadan fonksiyonlar yardımıyla React’teki state ve lifecycle özelliklerinin kullanılmasını sağlar. Hook’lar class’lar içerisinde çalışmadığı için fonksiyon component’ı içerisinde yer almalıdırlar. React içerisinde halihazırda yer alan temel hook’lar olarak state hook ve effect hook’u örnek verebiliriz. useEffect fonksiyonu olarak tanımlanan Effect Hook, herhangi bir fonksiyon component’ine bu tarz yan etkili işlemleri yapabilme yeteneği kazandırır. React class’larındaki componentDidMount, componentDidUpdate,
+
+17.ders te kaldın
+
+
+
+
+---> Eticaret projesi
+anasayfa(header, slider, kategoriler, iş ortaklarımız, footer)
+sepet çalışsın(ürün ekle) add to card mantığı
+
+
+JSON dosyasında veriler tutulacak
+
+
+slug olucak

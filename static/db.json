@@ -1,0 +1,38 @@
+{
+	"Products":[
+		{"id": 1,"name": "Rani A4 Duvar Raflı - Kitaplıklı Tv Ünitesi Modern Ayaklı Tasarım Beyaz", "price": 239.90, "catId": "1"},
+		{"id": 2,"name": "Glam Loft Tv Ünitesi", "price": 2689, "catId": "1"},
+		{"id": 3,"name": "Xiaomi Mi Band 4 Akıllı Bileklik Siyah", "price": 169, "catId": "3"},
+		{"id": 4,"name": "Samsung UE-40N5300 Full HD Uydu Alıcılı Smart LED Televizyon", "price": 2229, "catId": "3"},
+		{"id": 5,"name": "Xiaomi Roborock S50 Akıllı Navigasyonlu Robot Süpürge ve Islak Paspas", "price": 3172, "catId": "3"},
+		{"id": 6,"name": "Lamy Yumuşak Kapak A5 Defter ve Roller Kalem Seti - Yeşil", "price": 227, "catId": "2"},
+		{"id": 7,"name": "Lamy Dolmakalem Safari Mat Siyah 17-M", "price": 132.90, "catId": "2"},
+		{"id": 8,"name": "Hepsi Home Novado 4 Kapaklı 2 Çekmeceli Gardırop - Beyaz", "price": 399, "catId": "1"},
+		{"id": 9,"name": "BYDAMAT BEZ DOLAP ÇİFT YANDAN RAFLI LACİVERT", "price": 99, "catId": "1"},
+		{"id": 10,"name": "Bimossa K5425 5 Kapaklı 4 Çekmeceli Gardırop - Ceviz", "price": 1329, "catId": "1"},
+		{"id": 11,"name": "Lamy Tükenmez K.Pico Parlak Krom E113 289", "price": 227, "catId": "2"},
+		{"id": 12,"name": "Rani Duvar Raflı Tv Sehpası - Kitaplıklı Tv Ünitesi Modern Ayaklı Tasarım Minyatür Ceviz - Beyaz", "price": 239.90, "catId": "1"},
+		{"id": 13,"name": "Acer KG241QPbiip 23.6'' 144Hz 1ms (HDMI+Display) FreeSync Full HD Monitör", "price": 999, "catId": "3"},
+		{"id": 14,"name": "Rani A9 Tv Ünitesi Modern Ayaklı Tv Sehpası Ceviz", "price": 299.90, "catId": "1"}
+	],
+	"Categories": [
+		{"id": "1","name": "Mobilya"},
+		{"id": "2", "name": "Kırtasiye"},
+		{"id": "3", "name": "Teknoloji"},
+		{"id": "4", "name": "Tekstil"}
+	],
+	"Sliders": [
+		{"id": "1", "img": "../assets/img/slider/1.jpg", "class":"carousel-item"},
+		{"id": "2", "img": "../assets/img/slider/2.jpg", "class":"carousel-item"},
+		{"id": "3", "img": "../assets/img/slider/3.jpg", "class":"carousel-item"},
+		{"id": "4", "img": "../assets/img/slider/4.jpg", "class":"carousel-item active"}
+	],
+	"Partners": [
+		{"id": "1","name": "Koç", "img": "../assets/img/koc.png", "style":""},
+		{"id": "2","name": "Doğuş", "img": "../assets/img/dogus.png", "style":"margin-top: 40px"},
+		{"id": "3","name": "Koç", "img": "../assets/img/ülker.png", "style":""},
+		{"id": "4","name": "Doğuş", "img": "../assets/img/koc.png", "style":""},
+		{"id": "5","name": "Koç", "img": "../assets/img/dogus.png", "style":"margin-top: 40px"},
+		{"id": "6","name": "Doğuş", "img": "../assets/img/ülker.png", "style":""}
+	]
+}

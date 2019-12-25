@@ -1,0 +1,34 @@
+{
+	"Products":[
+		{"id": 1,"name": "Rani A4 Duvar Raflı - Kitaplıklı Tv Ünitesi Modern Ayaklı Tasarım Beyaz", "price": "239,90", "catId": 1},
+		{"id": 2,"name": "Glam Loft Tv Ünitesi", "price": "2.689,99", "catId": 1},
+		{"id": 3,"name": "Xiaomi Mi Band 4 Akıllı Bileklik Siyah", "price": "169,90", "catId": 3},
+		{"id": 4,"name": "Samsung UE-40N5300 Full HD Uydu Alıcılı Smart LED Televizyon", "price": "2.229", "catId": 3},
+		{"id": 5,"name": "Xiaomi Roborock S50 Akıllı Navigasyonlu Robot Süpürge ve Islak Paspas", "price": "3.172,90", "catId": 3},
+		{"id": 6,"name": "Lamy Yumuşak Kapak A5 Defter ve Roller Kalem Seti - Yeşil", "price": "227,0", "catId": 2},
+		{"id": 7,"name": "Lamy Dolmakalem Safari Mat Siyah 17-M", "price": "132,90", "catId": 2},
+		{"id": 8,"name": "Hepsi Home Novado 4 Kapaklı 2 Çekmeceli Gardırop - Beyaz", "price": "399,90", "catId": 1},
+		{"id": 9,"name": "BYDAMAT BEZ DOLAP ÇİFT YANDAN RAFLI LACİVERT", "price": "99,0", "catId": 1},
+		{"id": 10,"name": "Bimossa K5425 5 Kapaklı 4 Çekmeceli Gardırop - Ceviz", "price": "1.329,90", "catId": 1},
+		{"id": 11,"name": "Lamy Tükenmez K.Pico Parlak Krom E113 289", "price": "227,84", "catId": 2},
+		{"id": 12,"name": "Rani Duvar Raflı Tv Sehpası - Kitaplıklı Tv Ünitesi Modern Ayaklı Tasarım Minyatür Ceviz - Beyaz", "price": "239,90", "catId": 1},
+		{"id": 13,"name": "Acer KG241QPbiip 23.6'' 144Hz 1ms (HDMI+Display) FreeSync Full HD Monitör", "price": "999.0", "catId": 3},
+		{"id": 14,"name": "Rani A9 Tv Ünitesi Modern Ayaklı Tv Sehpası Ceviz", "price": "299,90", "catId": 1},
+	],
+	"Categories": [
+		{"id": 1, "name": "Mobilya", "imgPath": "./assets/img/cat-mobilya.jpg"},
+		{"id": 2, "name": "Kırtasiye", "imgPath": "./assets/img/cat-kirtasiye.jpg"},
+		{"id": 3, "name": "Teknoloji", "imgPath": "./assets/img/cat-teknoloji.jpg"},
+	],
+	"Slider": [
+		{"id": 1, "imgPath": "./assets/img/slider/1.jpg"},
+		{"id": 2, "imgPath": "./assets/img/slider/2.jpg"},
+		{"id": 3, "imgPath": "./assets/img/slider/3.jpg"},
+		{"id": 4, "imgPath": "./assets/img/slider/4.jpg"}
+	],
+	"Partners": [
+		{"id": 1,"name": "Koç", "imgPath": "./assets/img/partners/koc.png"},
+		{"id": 2,"name": "Doğuş", "imgPath": "./assets/img/partners/dogus.png"},
+		{"id": 3,"name": "Ülker", "imgPath": "./assets/img/partners/ülker.png"},
+	]
+}

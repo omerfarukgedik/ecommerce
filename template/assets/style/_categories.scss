@@ -1,0 +1,61 @@
+
+.categories{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  height: 200px;
+  background: url('../img/zebra.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  justify-content: center;
+  align-items: center;
+
+  &:before{
+    opacity: 0.3;
+  }
+  
+
+  .title{
+    color: #FFF;
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+  .categoryWrapper{
+    display: flex;
+    flex-direction: row;
+
+    .category{
+      display: flex;
+      flex-direction: column;
+      border-radius: 50%;
+      background: #5FC5CA;
+      color: #fff;
+      font-weight: bold;;
+      margin-left: 10px;
+
+      height: 100px;
+      padding: 10px;
+      justify-content: center;
+      
+      &:before{ opacity: 0.7;}
+    }
+  }
+
+  @media screen and(max-width: 600px) {
+    .categoryWrapper{
+      .category{
+        font-size: 12px;
+        font-weight: normal;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 70px;
+        width: 70px;
+      }
+    }
+
+  }
+}
